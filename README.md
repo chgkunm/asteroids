@@ -3,6 +3,9 @@
 Asteroids is my second [Boot.dev](https://www.boot.dev) project!
 It is a small game to understand and implement OOPs.
 
+*The game can be played by running $python3 main.py.
+*Before that it is advisible to run $pip install -r requirements.txt
+
 Game Logic:
 
 - player ship: triangle spaceship with a circle hitbox;
